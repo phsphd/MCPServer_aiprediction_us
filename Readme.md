@@ -1,3 +1,13 @@
+# MCPServer_aiprediction_us
+# AI Prediction MCP Server
+
+![Repository Views](https://komarev.com/ghpvc/?username=phsphd&repo=aiprediction_us_MCP_Server&color=blue&style=flat-square&label=Repository+Views)
+![GitHub Stars](https://img.shields.io/github/stars/phsphd/aiprediction_us_MCP_Server?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/phsphd/aiprediction_us_MCP_Server?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/phsphd/aiprediction_us_MCP_Server)
+![License](https://img.shields.io/github/license/phsphd/aiprediction_us_MCP_Server)
+
+A Model Context Protocol (MCP) server that provides Claude with access to AI prediction data from the aiprediction.us API.
 # AI Prediction MCP Server
 
 A Model Context Protocol (MCP) server that provides Claude with access to AI prediction data from the aiprediction.us API. This server handles authentication, date formatting, and data retrieval to give Claude seamless access to trading predictions and analysis.
@@ -292,13 +302,3 @@ For issues:
 ---
 
 **Happy Trading with AI Predictions! 📈**# aiprediction_us_MCP_Server
-# MCPServer_aiprediction_us
-# AI Prediction MCP Server
-
-![Repository Views](https://komarev.com/ghpvc/?username=phsphd&repo=aiprediction_us_MCP_Server&color=blue&style=flat-square&label=Repository+Views)
-![GitHub Stars](https://img.shields.io/github/stars/phsphd/aiprediction_us_MCP_Server?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/phsphd/aiprediction_us_MCP_Server?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/phsphd/aiprediction_us_MCP_Server)
-![License](https://img.shields.io/github/license/phsphd/aiprediction_us_MCP_Server)
-
-A Model Context Protocol (MCP) server that provides Claude with access to AI prediction data from the aiprediction.us API.
