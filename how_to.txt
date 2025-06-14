@@ -1,0 +1,13 @@
+echo "# aiprediction_us_MCP_Server" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/phsphd/MCPServer_aiprediction_us.git
+git push -u origin main
+
+
+git add .
+git commit -m "6_3_25"
+git push --set-upstream origin main
+git push
